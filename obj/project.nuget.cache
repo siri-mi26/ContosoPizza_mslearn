@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6GXhuN7wIxn5yfB8X44u1MVDdajcixt4T9QGmXWD/D2YtcCKQciQWSjZ/MsdExHCefZgm5vf5inBkaerp8fcjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\purpl\\Desktop\\ContosoPizza_mslearn\\ContosoPizza_mslearn.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\purpl\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\purpl\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\purpl\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\purpl\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\purpl\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\purpl\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
